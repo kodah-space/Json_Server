@@ -11,6 +11,11 @@
       "title": "Module 3 Project",
       "description": "Create a full-stack application using MERN stack.",
       "userId": 1
+    },
+    {
+      "title": "New Project Updated",
+      "description": "This is a new project.",
+      "id": 5
     }
   ],
   "tasks": [
