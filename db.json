@@ -4,19 +4,28 @@
       "uId": 1,
       "ArtistName": "Module 2 Project",
       "bio": "Module 2 project - Integrate a React app with backend.",
-      "type": "Artist"
+      "type": "Artist",
+      "socials": {
+        "instagramUrl": ""
+      }
     },
     {
       "uId": 2,
       "ArtistName": "Module 3 Project",
       "bio": "Create a full-stack application using MERN stack.",
-      "type": "Artist"
+      "type": "Artist",
+      "socials": {
+        "instagramUrl": ""
+      }
     },
     {
       "uId": 3,
       "ArtistName": "New Project Updated",
       "bio": "This is a new project.",
-      "type": "Artist"
+      "type": "Artist",
+      "socials": {
+        "instagramUrl": ""
+      }
     }
   ],
   "medias": [
