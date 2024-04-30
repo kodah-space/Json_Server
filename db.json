@@ -1,38 +1,45 @@
 {
-  "projects": [
+  "users": [
     {
-      "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "uId": 1,
+      "ArtistName": "Module 2 Project",
+      "bio": "Module 2 project - Integrate a React app with backend.",
+      "type": "Artist"
     },
     {
-      "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
+      "uId": 2,
+      "ArtistName": "Module 3 Project",
+      "bio": "Create a full-stack application using MERN stack.",
+      "type": "Artist"
     },
     {
-      "title": "New Project Updated",
-      "description": "This is a new project.",
-      "id": 5
+      "uId": 3,
+      "ArtistName": "New Project Updated",
+      "bio": "This is a new project.",
+      "type": "Artist"
     }
   ],
-  "tasks": [
+  "medias": [
     {
       "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
+      "artistId": 1,
+      "description": "Use Vite to create a basic React app",
+      "mediaType": "",
+      "mediaURL": ""
     },
     {
       "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "artistId": 1,
+      "description": "Install React Router and setup routes",
+      "mediaType": "",
+      "mediaURL": ""
     },
     {
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "artistId": 2,
+      "description": "Create a form with 5 input fields",
+      "mediaType": "",
+      "mediaURL": ""
     }
   ]
 }
