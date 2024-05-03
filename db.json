@@ -2,29 +2,17 @@
   "users": [
     {
       "id": 1,
-      "ArtistName": "Module 2 Project",
-      "bio": "Module 2 project - Integrate a React app with backend.",
+      "artistName": "Daniel De boer",
+      "shoutout": "Daniel de Boer is a composer, bassist and singer from The Netherlands. His music is an eclectic mix of cultures and styles that come together in the pop idiom. Music that is in short: world pop.",
+      "bio": "It had been a dream of Daniel for many years to one day record an album with his original songs. In the summer of 2020 he found the time and mind-space to work on material, and he made sketches for nine compositions. One year later, in June 2021, he moved from his home country to pursue a master’s in performance at Berklee Valencia. In Spain he developed the songs and the concept for the album, together with Indian producer Shakthi Prasad, whom he’d met at a musicians meeting in the famous Turia Park in Valencia.\n\nTogether they began approaching Daniel‘s friends from all around the world to ask if they would be interested to play on the album. All of them said yes, and now musicians from over sixteen countries are part of the project. Amongst the instruments you can hear on the songs are diatonic accordion, lyra, oud oriental percussion. Stylistically, the album is a mix of pop and a variety of world music genres. Each individual musician brought something unique to the project, and everyone left a personal mark on the music.",
       "type": "Artist",
+      "imageUrl": "https://static.wixstatic.com/media/a64eb4_6d2e0c6d9367485bba87c2a69f8e3527~mv2.png/v1/fill/w_261,h_261,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Songlorious%20Icon.png",
+      "location": "Amsterdam",
+      "genre": ["Pop", "Indie", "World Music"],
       "socials": {
-        "instagramUrl": ""
-      }
-    },
-    {
-      "id": 2,
-      "ArtistName": "Module 3 Project",
-      "bio": "Create a full-stack application using MERN stack.",
-      "type": "Artist",
-      "socials": {
-        "instagramUrl": ""
-      }
-    },
-    {
-      "id": 3,
-      "ArtistName": "New Project Updated",
-      "bio": "This is a new project.",
-      "type": "Artist",
-      "socials": {
-        "instagramUrl": ""
+        "instagramUrl": "https://www.instagram.com/danieldeboermusic/",
+        "spotifyUrl": "https://open.spotify.com/artist/00ZNRLfA0cWqzokvpYDt86?si=XRLnE7DeR2WwFntnmQaFKw",
+        "soundcloudUrl": "https://soundcloud.com/daniel-de-boer-246126980"
       }
     }
   ],
