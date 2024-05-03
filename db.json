@@ -20,23 +20,44 @@
     {
       "id": 1,
       "artistId": 1,
-      "description": "Use Vite to create a basic React app",
-      "mediaType": "",
-      "mediaURL": ""
+      "mediaType": "youtube",
+      "mediaURL": "https://youtu.be/zd4HU4_vmpE?si=4LtOYz64qaAYlbuu"
     },
     {
       "id": 2,
       "artistId": 1,
-      "description": "Install React Router and setup routes",
-      "mediaType": "",
-      "mediaURL": ""
+      "mediaType": "youtube",
+      "mediaURL": "https://www.youtube.com/watch?v=lybeEg8JvIM"
     },
     {
       "id": 3,
-      "artistId": 2,
-      "description": "Create a form with 5 input fields",
-      "mediaType": "",
-      "mediaURL": ""
+      "artistId": 1,
+      "mediaType": "soundcloud",
+      "mediaURL": "https://soundcloud.com/daniel-de-boer-246126980/fly-away-1"
+    },
+    {
+      "id": 4,
+      "artistId": 1,
+      "mediaType": "soundcloud",
+      "mediaURL": "https://soundcloud.com/daniel-de-boer-246126980/closer-1"
+    },
+    {
+      "id": 5,
+      "artistId": 1,
+      "mediaType": "soundcloud",
+      "mediaURL": "https://soundcloud.com/daniel-de-boer-246126980/dont-hold-the-line"
+    },
+    {
+      "id": 6,
+      "artistId": 1,
+      "mediaType": "soundcloud",
+      "mediaURL": "https://soundcloud.com/daniel-de-boer-246126980/circles-1"
+    },
+    {
+      "id": 7,
+      "artistId": 1,
+      "mediaType": "spotify",
+      "mediaURL": "https://open.spotify.com/album/1Vpa1CmVRRjHNghQ3Cu79y?si=HoDGRj5vTDSb_25lHrbxuQ"
     }
   ]
 }
