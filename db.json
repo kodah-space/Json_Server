@@ -57,7 +57,19 @@
       "id": 7,
       "artistId": 1,
       "mediaType": "spotify",
-      "mediaURL": "https://open.spotify.com/embed/track/0ZbKX2MiJs0iZZmh93xn9q"
+      "mediaURL": "https://open.spotify.com/track/1t8gEZie6HfeEQeWrtz9hj?si=6af42e1ea4614a7d"
+    },
+    {
+      "id": 8,
+      "artistId": 1,
+      "mediaType": "spotify",
+      "mediaURL": "https://open.spotify.com/track/036Qhl7ehqDXL4U29Nros7?si=2e9c320236104d9b"
+    },
+    {
+      "id": 9,
+      "artistId": 1,
+      "mediaType": "spotify",
+      "mediaURL": "https://open.spotify.com/track/2iU2JV4xn7KghdIiaSHgmc?si=ebec36c3ed474835"
     }
   ]
 }
