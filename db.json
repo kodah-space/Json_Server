@@ -21,19 +21,19 @@
       "id": 1,
       "artistId": 1,
       "mediaType": "youtube",
-      "mediaURL": "https://www.youtube.com/embed/zd4HU4_vmpE?si=mEsU-FKZHXfzPvgb"
+      "mediaURL": "https://www.youtube.com/watch?v=lybeEg8JvIM"
     },
     {
       "id": 2,
       "artistId": 1,
       "mediaType": "youtube",
-      "mediaURL": "https://www.youtube.com/embed/lybeEg8JvIM?si=iBCCwrVIsxCF1V-B"
+      "mediaURL": "https://www.youtube.com/watch?v=zd4HU4_vmpE"
     },
     {
       "id": 3,
       "artistId": 1,
       "mediaType": "soundcloud",
-      "mediaURL": "https://www.youtube.com/embed/lybeEg8JvIM?si=SGg7hZwkLBV6C6MP"
+      "mediaURL": "https://soundcloud.com/daniel-de-boer-246126980/fly-away-1"
     },
     {
       "id": 4,
