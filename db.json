@@ -2,9 +2,9 @@
   "users": [
     {
       "id": 1,
-      "artistName": "Daniel De boer",
-      "shoutout": "Daniel de Boer is a composer, bassist and singer from The Netherlands. His music is an eclectic mix of cultures and styles that come together in the pop idiom. Music that is in short: world pop.",
-      "bio": "It had been a dream of Daniel for many years to one day record an album with his original songs. In the summer of 2020 he found the time and mind-space to work on material, and he made sketches for nine compositions. One year later, in June 2021, he moved from his home country to pursue a master’s in performance at Berklee Valencia. In Spain he developed the songs and the concept for the album, together with Indian producer Shakthi Prasad, whom he’d met at a musicians meeting in the famous Turia Park in Valencia.\n\nTogether they began approaching Daniel‘s friends from all around the world to ask if they would be interested to play on the album. All of them said yes, and now musicians from over sixteen countries are part of the project. Amongst the instruments you can hear on the songs are diatonic accordion, lyra, oud oriental percussion. Stylistically, the album is a mix of pop and a variety of world music genres. Each individual musician brought something unique to the project, and everyone left a personal mark on the music.",
+      "artistName": "Daniel De Boer",
+      "shoutout": "Daniel de Boer is a composer, bassist, and singer from The Netherlands. His music is an eclectic mix of cultures and styles that come together in the pop idiom. Music that is, in short: world pop.",
+      "bio": "Recording an album of his original songs had long been a dream for Daniel. In the summer of 2020, he found time to work on sketches for nine compositions. A year later, he moved to Valencia to pursue a master's in performance at Berklee Valencia, where he collaborated with Indian producer Shakthi Prasad. Together, they approached musicians from around the world, gathering a diverse group from over 16 countries. The resulting album blends pop with world music genres, featuring instruments like the diatonic accordion, lyra, oud, and oriental percussion. Each musician brought their unique touch, creating a distinct and personal sound.",
       "type": "Artist",
       "imageUrl": "https://static.wixstatic.com/media/a64eb4_6d2e0c6d9367485bba87c2a69f8e3527~mv2.png/v1/fill/w_261,h_261,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Songlorious%20Icon.png",
       "location": "Amsterdam",
@@ -19,7 +19,7 @@
       "id": 2,
       "artistName": "KEANA",
       "shoutout": "KEANA: Dream pop virtuoso crafting ethereal soundscapes and mystic lyrics, praised by EARMILK, Atwood Magazine, and LADYGUNN.",
-      "bio": "IF ALISON GOLDFRAPP AND PORTISHEAD CONCEIVED A BABY WHILE BJÖRK WATCHED, THE END PRODUCT WOULD NO DOUBT BE RISING DREAM POP VIRTUOSO KEANA. BASED IN LOS ANGELES, KEANA IS BEST KNOWN FOR HER DELICATELY FLUID AND IMAGINATIVE UNIVERSE OF TRIP HOP AND ELECTRONIC AMBIENCE; A CRYSTALLINE DREAM SEQUENCE-LIKE UNIVERSE SHE CAREFULLY CRAFTED AS THE SOLE WRITER AND PRODUCER OF HER WORK. HER PREVIOUS SINGLES “LILAC” AND “SWAY” RECEIVED CRITICAL PRAISE FOR HER HARD-HITTING ATMOSPHERIC SOUNDSCAPES AND MYSTIC LYRICS, GARNERING PRAISE FROM RESPECTED PUBLICATIONS SUCH AS EARMILK, ATWOOD MAGAZINE AND LADYGUNN.",
+      "bio": "If Alison Goldfrapp and Portishead conceived a baby while Björk watched, the end product would no doubt be rising dream pop virtuoso Keana. Based in Los Angeles, Keana is best known for her delicately fluid and imaginative universe of trip-hop and electronic ambience; a crystalline, dream-sequence-like universe she carefully crafted as the sole writer and producer of her work. Her previous singles, \"Lilac\" and \"Sway,\" received critical praise for their hard-hitting atmospheric soundscapes and mystic lyrics, garnering acclaim from respected publications such as Earmilk, Atwood Magazine, and Ladygunn.",
       "type": "Artist",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/5ab68b973e2d09b08935730d/1633637067649-UGVO64NAAXLH0D0XP4BP/Lilac+Screen+Grab.jpg",
       "location": "Los Angeles",
