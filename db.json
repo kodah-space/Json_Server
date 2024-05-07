@@ -26,8 +26,7 @@
       "genre": ["Pop", "Dream pop", "Electronica"],
       "socials": {
         "instagramUrl": "https://www.instagram.com/keana.mp3",
-        "spotifyUrl": "https://open.spotify.com/artist/36eKp9qiN1T9agsxRCGQB0?si=H_rbN5IUT6WdKQXDIu0efQ",
-        "soundcloudUrl": ""
+        "spotifyUrl": "https://open.spotify.com/artist/36eKp9qiN1T9agsxRCGQB0?si=H_rbN5IUT6WdKQXDIu0efQ"
       }
     },
     {
@@ -44,6 +43,21 @@
         "spotifyUrl": "https://open.spotify.com/artist/0hlgr8TCzypz0IfoKCdio5?si=MCSyOhg8TVClwpUBH5iUwA",
         "youtubeUrl": "https://www.youtube.com/channel/UCzZMe2QZSjG9BhE1OaTmBEw"
       }
+    },
+    {
+      "artistName": "Sweet Tempest",
+      "shoutout": "As if Stevie Nicks was singing with the Pet Shop Boys: Catchy Eighties synth sounds meet danceable club tracks on Sweet Tempest's debut album.",
+      "bio": "Sweet Tempest are Luna Kira and Julian Winding. Both Berliners come from Copenhagen, where they founded their band years ago and their first album is now being released with the apt title “Going Down Dancing”. Their tracks are a cool mix of club sounds and 80s pop.",
+      "type": "",
+      "imageUrl": "https://www.tonspion.de/wp-content/uploads/2022/11/Album-Cover-Going-Down-Dancing.001-1024x1024.jpeg",
+      "location": "Copenhagen, Denmark",
+      "genre": ["Synth Pop", "electro pop"],
+      "socials": [
+        {
+          "instagramUrl": "https://www.instagram.com/sweettempestmusic"
+        }
+      ],
+      "id": 4
     }
   ],
   "media": [
@@ -124,6 +138,18 @@
       "artistId": 3,
       "mediaType": "spotify",
       "mediaURL": "https://open.spotify.com/track/4CyyVAec2vWv3FlOuMqaMc?si=07f5031a4a0844e9"
+    },
+    {
+      "artistId": 4,
+      "mediaType": "spotify",
+      "mediaURL": "https://open.spotify.com/track/2x5v6UlZ908nlma4LGErZ4?si=6663b72ec3404fe5",
+      "id": 14
+    },
+    {
+      "artistId": 4,
+      "mediaType": "youtube",
+      "mediaURL": "https://www.youtube.com/watch?v=lD6GR47Bx9M",
+      "id": 15
     }
   ]
 }
