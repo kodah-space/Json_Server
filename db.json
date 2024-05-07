@@ -61,27 +61,27 @@
     },
     {
       "id": 3,
-      "artistId": 1,
-      "mediaType": "soundcloud",
-      "mediaURL": "https://soundcloud.com/daniel-de-boer-246126980/fly-away-1"
+      "artistId": 2,
+      "mediaType": "youtube",
+      "mediaURL": "https://www.youtube.com/watch?v=OZkrN4XMonc"
     },
     {
       "id": 4,
-      "artistId": 1,
-      "mediaType": "soundcloud",
-      "mediaURL": "https://soundcloud.com/daniel-de-boer-246126980/closer-1"
+      "artistId": 2,
+      "mediaType": "youtube",
+      "mediaURL": "https://www.youtube.com/watch?v=IamgOR31xPg"
     },
     {
       "id": 5,
-      "artistId": 1,
-      "mediaType": "soundcloud",
-      "mediaURL": "https://soundcloud.com/daniel-de-boer-246126980/dont-hold-the-line"
+      "artistId": 2,
+      "mediaType": "spotify",
+      "mediaURL": "https://open.spotify.com/track/13P9bUbi5O4g6MG4DGhEXU?si=fa3fb0323fc543d9"
     },
     {
       "id": 6,
-      "artistId": 1,
-      "mediaType": "soundcloud",
-      "mediaURL": "https://soundcloud.com/daniel-de-boer-246126980/circles-1"
+      "artistId": 2,
+      "mediaType": "spotify",
+      "mediaURL": "https://open.spotify.com/track/34fIYZoDYa6q2H4PogyfoU?si=b47d524c22d14eb7"
     },
     {
       "id": 7,
@@ -100,6 +100,30 @@
       "artistId": 1,
       "mediaType": "spotify",
       "mediaURL": "https://open.spotify.com/track/2iU2JV4xn7KghdIiaSHgmc?si=ebec36c3ed474835"
+    },
+    {
+      "id": 10,
+      "artistId": 3,
+      "mediaType": "youtube",
+      "mediaURL": "https://www.youtube.com/watch?v=BsIROJ7as3U"
+    },
+    {
+      "id": 11,
+      "artistId": 3,
+      "mediaType": "youtube",
+      "mediaURL": "https://www.youtube.com/watch?v=FoEaZZDE0aM"
+    },
+    {
+      "id": 12,
+      "artistId": 3,
+      "mediaType": "spotify",
+      "mediaURL": "https://open.spotify.com/track/4BC3qQk62TSpfCQoFEgaE4?si=a48a67ab2fb64e64"
+    },
+    {
+      "id": 13,
+      "artistId": 3,
+      "mediaType": "spotify",
+      "mediaURL": "https://open.spotify.com/track/4CyyVAec2vWv3FlOuMqaMc?si=07f5031a4a0844e9"
     }
   ]
 }
